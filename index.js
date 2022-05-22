@@ -119,4 +119,4 @@ function showProgress() {
   let questNo = quiz.index + 1;
   let element = document.getElementById("progress");
   element.innerHTML = `Question ${questNo} of  ${quiz.questions.length}`;
-}
+} 
