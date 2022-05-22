@@ -1,41 +1,41 @@
 let questions = [
   new Question(
-    "Inside which HTML element do we put the JavaScript?",
+    "Question 1: Inside which HTML element do we put the JavaScript?",
     ["script", "js", "javascript", "scripting"],
     "script"
   ),
   new Question(
-    "JavaScript Supports?",
+    "Question 2: JavaScript Supports?",
     ["Functions", "XHTML", "CSS", "HTML"],
     "Functions"
   ),
   new Question(
-    "What is the correct syntax for referring to an external script called xxx.js?",
+    "Question 3: What is the correct syntax for referring to an external script called xxx.js?",
     ["script name", "script href", "script src", "None"],
     "script src"
   ),
   new Question(
-    "How do you write 'Hello World' in an alert box?",
+    "Question 4: How do you write 'Hello World' in an alert box?",
     ["msgBox", "alert", "msg", "alertBox"],
     "alertBox"
   ),
   new Question(
-    "JavaScript is a which -side programming language?",
+    "Question 5: JavaScript is a which -side programming language?",
     ["Client", "Server", "Both", "None"],
     "Both"
   ),
   new Question(
-    "Which JavaScript label catches all the values, except for the ones specified?",
+    "Question 6: Which JavaScript label catches all the values, except for the ones specified?",
     ["catch", "label", "try", "default"],
     "default"
   ),
   new Question(
-    "Which are the correct 'if' statements to execute certain code if 'x' is equal to 2?",
+    "Question 7: Which are the correct 'if' statements to execute certain code if 'x' is equal to 2?",
     ["if(x 2)", "if(x = 2)", "if(x == 2)", "if(x != 2 )"],
     "if(x == 2)"
   ),
   new Question(
-    "What does JSON stand for ?",
+    "Question 8: What does JSON stand for ?",
     [
       "Java Simple Object Notation",
       "JavaScript Object Notation",
